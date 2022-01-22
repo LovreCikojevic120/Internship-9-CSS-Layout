@@ -14,6 +14,14 @@ a{
     color: #fff;
 }
 
+button{
+    border:none;
+    border-radius: 50px;
+    background-color: #cf8c29;
+    padding: 5% 10%;
+    font-size: 14px;
+}
+
 .navbar{
     display: flex;
     justify-content: space-between;
@@ -45,11 +53,12 @@ a{
 }
 
 .contact-button{
-    padding: 5% 10%;
+    background-color: white;
 }
 
 .signin-button{
-    padding: 5% 10%;
+    background-color: black;
+    color: white;
 }
 
 .samedaydelivery-section{
@@ -109,7 +118,7 @@ a{
 }
 
 .percentage-box{
-    border-left: solid 1px yellow;
+    border-left: solid 1px #cf8c29;
     vertical-align: middle;
     padding-left: 5%;
 }
@@ -221,12 +230,11 @@ a{
 
 .subsection-button{
     margin: 5% 0 10% 0;
-    background-color: yellow;
-    padding: 1%;
+    padding: 2% 5%;
 }
 
 .insights-section{
-    margin: 10% 5% 0 5%;
+    margin: 5%;
 }
 
 .insights-section-header{
