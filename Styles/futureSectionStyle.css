@@ -1,0 +1,14 @@
+.future-section{
+    margin-top: 15%;
+    margin-left: 2%;
+    display: flex;
+}
+
+.future-section-image{
+    width: 50%;
+}
+
+.future-section-image > img{
+    width: 100%;
+    height: auto;
+}
